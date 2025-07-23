@@ -143,6 +143,9 @@ cython_debug/
 # VS Code
 .vscode/
 
+# Cursor IDE
+.cursor/
+
 # macOS
 .DS_Store
 .AppleDouble
