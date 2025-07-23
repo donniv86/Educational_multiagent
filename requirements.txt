@@ -1,0 +1,19 @@
+# CrewAI Core Framework
+crewai>=0.55.0
+
+# CrewAI Tools Package
+crewai-tools>=0.1.0
+
+# Optional: MCP Support
+# crewai-tools[mcp]>=0.1.0
+
+# Additional Dependencies
+python-dotenv>=1.0.0
+requests>=2.31.0
+typing-extensions>=4.8.0
+
+# Development Dependencies (optional)
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
