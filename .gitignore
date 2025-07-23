@@ -181,6 +181,9 @@ logs/
 trained_agents_data.pkl
 training_data.pkl
 
+# External repositories (for learning purposes)
+crewAI/
+
 # API Keys and sensitive data
 api_keys.txt
 secrets.json
